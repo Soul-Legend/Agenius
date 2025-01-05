@@ -47,3 +47,5 @@ LEDR(4) o status win. Nesse estado o usuário deverá pressionar reset para pass
 • Visando evitar problemas de temporização em função do aperto de um KEY por um ser humano durar muitos ciclos
 de clock, o Button Press Synchronizer (ButtonSync) será fornecido em conjunto com o projeto. O jogo pode ser
 reiniciado em qualquer momento com o SW(1), reset.
+
+https://github.com/Soul-Legend/Agenius/blob/main/EstruturaGenius.pdf
