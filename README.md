@@ -1,5 +1,7 @@
 # Agenius
 
+O projeto é implementado usando a abordagem datapath-controle.
+
 • Para iniciar o jogo o usuário ativa a entrada de reset, SW (1), e passamos ao estado ST ART onde são activados os
 comandos de reset (R1 e R2). Nesse estado os displays HEX5 e HEX4 mostrarão a letra L de level e o nível de jogo,
 respectivamente, os displays HEX3 e HEX2 mostrarão a letra t de time e o tempo máximo de jogo, respectivamente,
