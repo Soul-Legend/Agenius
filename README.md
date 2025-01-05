@@ -48,7 +48,5 @@ LEDR(4) o status win. Nesse estado o usuário deverá pressionar reset para pass
 de clock, o Button Press Synchronizer (ButtonSync) será fornecido em conjunto com o projeto. O jogo pode ser
 reiniciado em qualquer momento com o SW(1), reset.
 
-![image](https://github.com/user-attachments/assets/db12fe06-026f-422f-aba5-d0c51df361ec)
-![image](https://github.com/user-attachments/assets/d74d63cb-155e-4f4c-89b3-5194d255b293)
-
-
+![image](https://github.com/user-attachments/assets/cf49fee8-39bb-472a-9e08-56f751d37160)
+![image](https://github.com/user-attachments/assets/4f4584c9-7245-497b-bd1e-04484e605133)
