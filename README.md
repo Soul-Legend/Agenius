@@ -45,7 +45,7 @@ estado os displays HEX5, HEX4, HEX3, HEX2 mostrarão F P gA ou U SEr indicando q
 LEDR(4) o status win. Nesse estado o usuário deverá pressionar reset para passar a ST ART e reiniciar o jogo.
 
 • Visando evitar problemas de temporização em função do aperto de um KEY por um ser humano durar muitos ciclos
-de clock, o Button Press Synchronizer (ButtonSync) será fornecido em conjunto com o projeto. O jogo pode ser
+de clock, o Button Press Synchronizer (ButtonSync) foi desenvolvido. O jogo pode ser
 reiniciado em qualquer momento com o SW(1), reset.
 
 ![image](https://github.com/user-attachments/assets/cf49fee8-39bb-472a-9e08-56f751d37160)
